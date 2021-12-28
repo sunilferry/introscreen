@@ -39,6 +39,13 @@ class MyApp extends StatelessWidget {
 ```
 ## Features
 
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/sunilferry/introscreen/master/assets/screenshot.jpg" alt="Success Status"></td>
+    
+  </tr>
+</table>
+
 TODO: List what your package can do. Maybe include images, gifs, or videos.
 
 ## Getting started
